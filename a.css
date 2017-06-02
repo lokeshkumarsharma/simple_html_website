@@ -1,0 +1,196 @@
+
+.header{
+width:100%;
+height:100px;
+}
+
+
+.add span{
+margin:60px;
+text-align:center;
+}
+.add a:hover{
+color:red;
+}
+.cell:first-letter{
+color:#800080;
+font-size:120px;
+}
+.m{
+font-size:40px;
+font-weight:times new roman;
+color:#ffa500;
+
+}
+.hello{
+color:red;
+font-size:50px;
+font-weight:bold;
+font-family:Papyrus;
+
+text-align:center;}
+.haa{
+font-weight:arial;
+color:brown;
+font-size:30px;
+width:600px;
+height:730px;
+background-color:white;
+border:solid black 2px;
+
+}
+
+.haa a:hover{
+color:red;
+
+}
+
+.app{
+font-size:20px;
+color:black;
+background-color:#ffe4b5;
+border-radius:30px;
+border:solid black 2px;
+height:50px;
+}
+span{
+font-size:30px;
+color:rgb(25,55,100);
+}
+
+ul{
+color:rgb(30,50,250);
+font-size:20px;
+}
+
+.notifi{
+font-size:22px;
+color:white;
+width:600px;
+border:solid;
+border-radius:3px;
+background-color:white;
+}
+
+.notifi a:hover{
+
+color:red;
+}
+.notifi a:hover{
+
+color:red;
+}
+.notifi a:hover{
+
+color:red;
+}
+.notifi a:hover{
+
+color:red;
+}
+footer{
+
+font-size:30px;
+color:rgb(123,234,45);
+}
+.pro{
+text-align:left;
+font-weight:arial;
+font-size:30px;
+
+}
+.pro a:hover{
+
+color:white;
+}
+.pro a:active{
+active:orange;
+}
+.fog {
+
+font-weight:arial;
+font-size:30px;
+}
+.fog a:hover{
+color:white;
+}
+.fog a:active{
+active:orange;
+}
+.cry{
+margin-top:2px;
+border-radius:6px;
+display:inline;
+text-decoration:none;
+}
+.cry a:hover{
+
+color:red;
+}
+
+.home{
+margin-top:2px;
+display:inline;
+border-radius:5px;
+text-decoration:none;
+}
+.rome {
+font-size:60px;
+color:#cd853f;
+text-align:center;
+font-family:Papyrus;
+}
+body{
+background-image:koala.jpg;
+background-color:#b0c4de;
+background:-webkit-radial-gradient(center red 50% orange 50%);
+
+
+}
+lok{
+float:left;
+}
+footer{
+color:#cd5c5c;
+
+}
+.us{
+color:white;
+height:350px;
+width:800px;
+background-color:#ffffe0;
+font-size:25px;
+font-family:Comic Sans MS;
+border-radius:6px;
+
+}
+.bacon a:hover{
+color:green;
+}
+.bacon{
+font-family:Comic Sans MS;
+text-decoration:none;
+}
+
+.sat ul{
+background-color :#333;
+font-size:30px;
+color:white;
+width:1000px;
+height:320px;
+font-family:Comic Sans MS;
+border-radius:12px;
+
+}
+.sat ul *{
+color : #505050;}
+.sat li:hover{
+color:white;
+}
+
+.us li *{
+background-color :#333;
+color : #505050;}
+.us li:hover{
+color:black;
+}

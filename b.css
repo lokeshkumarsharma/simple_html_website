@@ -1,0 +1,79 @@
+.l a:hover{
+color:red;
+
+}
+.o a:hover{
+color:red;
+
+}
+.k a:hover{
+color:red;
+
+}
+.e a:hover{
+color:red;
+
+}
+.s a:hover{
+color:red;
+
+}
+.h a:hover{
+color:red;
+
+}
+.lokesh a:hover{
+color:red;
+}
+.right a:hover{
+
+color:red;
+}
+.wrong a:hover{
+
+color:red;
+}
+.bad a:hover{
+
+color:red;
+}
+.good a:hover{
+
+color:red;
+}
+.look a:hover{
+
+color:red;
+}
+.see a:hover{
+
+color:red;
+}
+.pic a:hover{
+
+color:red;
+}
+.pic a:active{
+
+color:green;
+}
+.vic{
+font-family:Comic Sans MS;
+font-size:20px;
+width:10px;
+height:10px;
+text-decoration:none;
+background-color:#dcdcdc;
+
+}
+.vic a:hover{
+color:#008000;
+}
+.none a:hover{
+color:red;
+
+}
+.none a{
+text-decoration:none;
+
+}
